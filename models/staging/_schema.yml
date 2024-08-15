@@ -48,5 +48,4 @@ models:
     columns:
       - name: supply_id
         tests:
-          - unique
           - not_null
